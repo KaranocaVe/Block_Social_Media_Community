@@ -9,3 +9,8 @@ Quantumult X重写
 ```
 https:\/\/app\.bilibili\.com\/.*reply.* url reject
 ```
+其他:屏蔽点赞列表
+```
+https:\/\/app\.bilibili\.com\/bilibili\.app\.dynamic\.v2\.Dynamic\/ReactionList
+```
+
